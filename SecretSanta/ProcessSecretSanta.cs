@@ -10,7 +10,7 @@ namespace SecretSanta
     public class ProcessSecretSanta
     {
         private List<SkoMember> _skoMembers { get; set; }
-        private string testNumber =  "6303475515";///"4158473505";///
+        private string testNumber =  "yourNumberToTestWith";
 
         public void Process(bool production)
         {

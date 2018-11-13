@@ -1,0 +1,18 @@
+C:\tdr\tdrsource\Utilities\EmailClient\bin\Debug\EmailClient.dll
+C:\tdr\tdrsource\Utilities\EmailClient\bin\Debug\EmailClient.pdb
+C:\tdr\tdrsource\Utilities\EmailClient\obj\Debug\EmailClient.dll
+C:\tdr\tdrsource\Utilities\EmailClient\obj\Debug\EmailClient.pdb
+C:\tdr\tdrsource\Utilities\EmailClient\bin\Debug\EmailClient.dll.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Utilities\EmailClient\bin\Debug\EmailClient.dll.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Utilities\EmailClient\bin\Debug\EmailClient.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Utilities\EmailClient\bin\Debug\EmailClient.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Utilities\EmailClient\obj\Debug\EmailClient.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Utilities\EmailClient\obj\Debug\EmailClient.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Utilities\EmailClient\obj\Debug\EmailClient.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Utilities\EmailClient\obj\Debug\EmailClient.csproj.CoreCompileInputs.cache
+C:\housework\Utilities\EmailClient\bin\Debug\EmailClient.dll.config
+C:\housework\Utilities\EmailClient\bin\Debug\EmailClient.dll
+C:\housework\Utilities\EmailClient\bin\Debug\EmailClient.pdb
+C:\housework\Utilities\EmailClient\obj\Debug\EmailClient.csproj.CoreCompileInputs.cache
+C:\housework\Utilities\EmailClient\obj\Debug\EmailClient.dll
+C:\housework\Utilities\EmailClient\obj\Debug\EmailClient.pdb
